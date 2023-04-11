@@ -1,12 +1,12 @@
 # UEMS
 
-Groups Leader 
-Hamza Fareed
+Groups Leader : 
+  Hamza Fareed
        
-Group Members
-Hamza Fareed
-Abdul Muhaimin
-Ahmad Faraz
+Group Members:
+  Hamza Fareed
+  Abdul Muhaimin
+  Ahmad Faraz
      
 
 
