@@ -23,7 +23,7 @@ The objective of the University Event Management System is to create a platform 
 ### Scope:
 The University Event Management System will be a solution that covers all aspects of event management within the university. The system will be designed to cater to all types of events, including conferences, student week, seminars, workshops, and cultural events.
 
-## Benefits:
+### Benefits:
 The University Event Management System will provide the following benefits:
 •	Simplify the event planning and management process.
 •	Eliminate manual processes, reducing the likelihood of errors and inefficiencies.
