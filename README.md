@@ -1,4 +1,4 @@
-# __ __ UEMS
+# UEMS
 
 ### Groups Leader : 
   Hamza Fareed
